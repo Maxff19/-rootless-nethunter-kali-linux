@@ -35,9 +35,8 @@ KaliNethunter-2024.1
 
 5.You’ll again get a few prompts. Type in Y and hit Enter for all these prompts.
 
-6.Again, type in the below command to get wget package information:
-
-        apt update
+ 6. next
+         pkg update &&pkg pkg upgrade
 
 7.Now type in the below command and grant Storage Access to Termux.
 
@@ -45,13 +44,6 @@ KaliNethunter-2024.1
  allow permisson
  
 8.Then type in the below command. Type Y in the prompt and hit Enter.
-
- 
-
-        pkg update && pkg upgrade
- 
-
-Then type in the below command. Type Y in the prompt and hit Enter.
 
          apt install wget
 
@@ -71,7 +63,8 @@ Then type in the below command. Type Y in the prompt and hit Enter.
 
           ./install-nethunter-termux
 
-type 1
+type
+        1
 
 after some time when installation is compleate.type 
 
