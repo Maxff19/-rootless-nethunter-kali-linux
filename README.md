@@ -1,9 +1,13 @@
 # -rootless-nethunter-kali-linux
 Installation of rootless nethunter in termux
+
+ welcome to the hacker world 
+ subscribe my youtube channel 
+ 
 KaliNethunter-2024.1
 
 ![image-removebg-preview (1)]
-(https://github.com/Hackerorgme/-rootless-nethunter-kali-linux/edit/main/README.md
+(https://github.com/Hackerorgme/-rootless-nethunter-kali-linux/edit/main/README.md)
 
 <p align="center"> 
   Visitor count<br>
@@ -44,7 +48,8 @@ KaliNethunter-2024.1
 
  
 
- pkg update && pkg upgrade
+        pkg update && pkg upgrade
+ 
 
 Then type in the below command. Type Y in the prompt and hit Enter.
 
@@ -70,7 +75,8 @@ type 1
 
 after some time when installation is compleate.type 
 
-net-hunter kex passward
+          net-hunter kex passward
+          
 type  minum six disit passward 
 re-enter your passward
  type enter
@@ -83,4 +89,5 @@ go to the vnc server entar name and passward
  subscribe my youtube channel
  hacker _org
 
-type 
+                  thank you  
+                   hacker_org
